@@ -10,7 +10,7 @@ eLTC will have a supply of 84 million tokens, it’s divisible to 8 decimal plac
 
 
 ### Official Telegram Channel: https://t.me/real_eLTC
-### Community Chat https://t.me/joinchat/CC3E7kPl7H2VK3Df13DXWg
+### Community Chat https://t.me/real_eLTC_community
 
 Come and say 👋 !
 
