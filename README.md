@@ -9,5 +9,12 @@ eLTC will have a supply of 84 million tokens, it’s divisible to 8 decimal plac
 ## Whitelist closes 13th Oct, 2017 @ 12PM GMT
 
 
+### Official Telegram Channel: https://t.me/real_eLTC
+### Community Chat https://t.me/joinchat/CC3E7kPl7H2VK3Df13DXWg
+
+Come and say 👋 !
+
+
+
 
 
