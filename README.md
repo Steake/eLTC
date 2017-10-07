@@ -6,7 +6,6 @@ eLTC NOW ELTCoin
 
 # WHITELIST CLOSED
 
-### Official Telegram Channel: https://t.me/real_eLTC
 ### Community Chat https://t.me/real_eLTC_community
 
 Come and say 👋 !
